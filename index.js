@@ -1,7 +1,7 @@
 function main() {
     console.log("Bienvenido a la calculadora 3.0");
 
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 4; i++) {
         console.log("Ingrese dos números para realizar la suma");
         let num1 = parseInt(prompt("Ingresa el primer número: "));
         let num2 = parseInt(prompt("Ingresa el segundo número: "));
